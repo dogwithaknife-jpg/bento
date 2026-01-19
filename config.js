@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Masterdoc',
+			icon: 'table',
+			link: 'https://docs.google.com/spreadsheets/d/1WmNVn7OmVFbLrH7TVDKasQBRI0Khtg6X5zoo6nFd3z0/edit#gid=1255355912',
 		},
 		{
 			id: '6',
@@ -135,46 +135,50 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'pen',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'My site',
+					link: 'https://www.evangelinegallagher.com/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Inprnt',
+					link: 'https://www.inprnt.com/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Store',
+					link: 'https://my.bigcartel.com/login',
 				},
 				{
-					name: 'Rock',
+					name: 'Shipping',
+					link: 'https://www.pirateship.com/',
+				},
+				{
+					name: 'Bluesky',
 					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'circle-dollar-sign',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'FFFCU',
+					link: 'https://www.firstfinancial.org/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Paypal',
+					link: 'https://www.paypal.com/us/home',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Discover',
+					link: 'https://www.discover.com/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Fidelity',
+					link: 'https://www.fidelity.com/',
 				},
 			],
 		},
