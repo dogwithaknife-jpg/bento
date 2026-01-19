@@ -6,22 +6,22 @@
 
 /* V A R I A B L E S */
 
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap'); /* Font Import */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet'); /* Font Import */
 
 :root {
   /* Font Size */
   --fg-primary: 12vh; /* Time and Greetings */
-  --fg-secondary: 3vh; /* Greetings and Weather widger */
+  --fg-secondary: 3vh; /* Greetings and Weather widget */
   --fg-date: 8vh; /* Date */
   --fg-list: 2vh; /* Links List */
-  --icon: 3vh; /* Icon Size */
+  --icon: 4vh; /* Icon Size */
 
   /* Fonts Color */
   --fg: #3a3a3a; /* Foreground color */
   --sfg: #494949; /* Sceondary Foreground color */
 
   /* Light Colors  */
-  --accent: #57a0d9; /* Hover color */
+  --accent: #da3c78; /* Hover color */
   --background: #f7dcea; /* Background color */
   --cards: ##f3aecc; /* Cards color */
 
